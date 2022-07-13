@@ -1,4 +1,4 @@
-											set up cell blocks 0 | 70 | 100 | 10:
+					        set up cell blocks 0 | 70 | 100 | 10:
 +++++ +++++				cell 0: initialize counter to 10
 [						set loop
 	> +++++ ++			cell 1: add 7
